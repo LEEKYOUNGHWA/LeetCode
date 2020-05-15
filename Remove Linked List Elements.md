@@ -1,5 +1,5 @@
-# LeetCode
-LeetCode 
+# Remove Linked List Elements
+
 
 ```
 /**
